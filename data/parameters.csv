@@ -1,0 +1,8 @@
+name,ratio,cost
+Hospital,0.25,200000
+Road,0.10,20000
+University,0.25,100000
+Police Station,0.25,15000
+Houses,0.30,14000
+School,0.15,130000
+Library,0.50,300000
