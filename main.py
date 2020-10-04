@@ -38,12 +38,12 @@ def main():
 
     st.header("Damage Report")
 
-    data = load_date()
-    st.dataframe(data[data["country"] == option])
-
+    data = load_data()
+    data_slice = data[(data["country"] == option) & (data["date"].dt.date == date)]
+    st.dataframe(data_slice)
 
 @st.cache(persist=True)
-def load_date():
+def load_data():
     data = pd.read_csv("./data/dataset.csv",)
     lowercase = lambda x: str(x).lower()
     data.rename(lowercase, axis="columns", inplace=True)
@@ -51,6 +51,7 @@ def load_date():
         columns={"number_damaged_structures": "number of damaged structures"},
         inplace=True,
     )
+    data["date"] = pd.to_datetime(data["date"])
     return data
 
 
