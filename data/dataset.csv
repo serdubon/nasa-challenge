@@ -1,0 +1,17 @@
+country,date,structure,number_damaged_structures
+Costa Rica,10/3/2020,Hospital,2
+Costa Rica,10/3/2020,Road,14
+Costa Rica,10/3/2020,University,1
+Costa Rica,10/3/2020,Police,1
+Costa Rica,10/3/2020,Houses,30
+Costa Rica,10/2/2020,Hospital,1
+Costa Rica,10/2/2020,Road,2
+Costa Rica,10/2/2020,University,3
+Costa Rica,10/2/2020,Police,4
+Costa Rica,10/2/2020,Houses,1
+Argentina,10/3/2020,Hospital,4
+Argentina,10/3/2020,Road,2
+Argentina,10/3/2020,Police,1
+Argentina,10/3/2020,Houses,50
+Argentina,10/2/2020,Hospital,2
+Argentina,10/2/2020,Road,42
