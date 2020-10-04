@@ -1,17 +1,35 @@
-country,date,structure,number_damaged_structures
-Costa Rica,2020-10-04,Hospital,2
-Costa Rica,2020-10-04,Road,14
-Costa Rica,2020-10-04,University,1
-Costa Rica,2020-10-04,Police,1
-Costa Rica,2020-10-04,Houses,30
-Costa Rica,2020-10-04,Hospital,1
-Costa Rica,2020-10-04,Road,2
-Costa Rica,2020-10-04,University,3
-Costa Rica,2020-10-04,Police,4
-Costa Rica,2020-10-04,Houses,1
-Argentina,2020-10-04,Hospital,4
-Argentina,2020-10-04,Road,2
-Argentina,2020-10-04,Police,1
-Argentina,2020-10-04,Houses,50
-Argentina,2020-10-04,Hospital,2
-Argentina,2020-10-04,Road,42
+country,date,structure,damage,unit
+Costa Rica,2020-10-04,Hospital,2,units
+Costa Rica,2020-10-04,Road,14,km
+Costa Rica,2020-10-04,University,1,units
+Costa Rica,2020-10-04,Police,1,units
+Costa Rica,2020-10-04,Houses,30,units
+Costa Rica,2020-10-04,Hospital,1,units
+Costa Rica,2020-10-04,Road,2,km
+Costa Rica,2020-10-04,University,3,units
+Costa Rica,2020-10-04,Police,4,units
+Costa Rica,2020-10-04,Houses,1,units
+Argentina,2020-10-04,Hospital,4,units
+Argentina,2020-10-04,Road,2,km
+Argentina,2020-10-04,Police,1,units
+Argentina,2020-10-04,Houses,50,units
+Argentina,2020-10-04,Hospital,2,units
+Argentina,2020-10-04,Road,42,km
+Uruguaiana,2019-01-07,Hospital,0,units
+Uruguaiana,2019-01-07,School,0,units
+Uruguaiana,2019-01-07,Police,0,units
+Uruguaiana,2019-01-07,Houses,0,units
+Uruguaiana,2019-01-07,Police Station,0,units
+Uruguaiana,2019-01-07,Road,0,km
+Uruguaiana,2019-01-11,Hospital,0,units
+Uruguaiana,2019-01-11,School,1,units
+Uruguaiana,2019-01-11,Library,0,units
+Uruguaiana,2019-01-11,Houses,150,units
+Uruguaiana,2019-01-11,Police Station,2,units
+Uruguaiana,2019-01-11,Road,42,km
+Uruguaiana,2019-01-12,Hospital,2,units
+Uruguaiana,2019-01-12,School,3,units
+Uruguaiana,2019-01-12,Library,1,units
+Uruguaiana,2019-01-12,Houses,200,units
+Uruguaiana,2019-01-12,Police Station,2,units
+Uruguaiana,2019-01-12,Road,105,km
