@@ -1,4 +1,4 @@
-country,date,structure,damage,unit
+location,date,structure,damage,unit
 Costa Rica,2020-10-04,Hospital,2,units
 Costa Rica,2020-10-04,Road,14,km
 Costa Rica,2020-10-04,University,1,units
