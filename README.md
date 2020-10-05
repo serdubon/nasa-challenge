@@ -10,6 +10,6 @@ Para correr el servidor utilizar el siguiente comando:
 
 ```
 
-streamlit run sampling_biased_population.py
+streamlit run main.py
 
 ```
