@@ -19,7 +19,7 @@ population = {
 
 def main():
     calculate_cost = True
-    st.title("NADA Spaceapps Challenge - Zonda Incorporated")
+    st.title("NASA Spaceapps Challenge - Zonda Incorporated")
     st.markdown("---")
     st.header("Flood indfaestructure damage estimation - via Sentinel-Hub ")
     st.markdown("*Sentinel - 1 Mission - European Space Agency*")
